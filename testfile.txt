@@ -4,3 +4,4 @@ https://discourse.skcript.com/t/guide-how-to-install-hyperledger-fabric-on-ubunt
 http://releases.ubuntu.com/bionic/
 https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation
 https://docs.corda.net/releases/head/_static/corda-developer-site.pdf
+https://www.linkedin.com/feed/update/urn:li:activity:6470455350154784768
