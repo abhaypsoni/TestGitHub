@@ -5,3 +5,4 @@ http://releases.ubuntu.com/bionic/
 https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation
 https://docs.corda.net/releases/head/_static/corda-developer-site.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:6470455350154784768
+http://www3.weforum.org/docs/WEF_The_future_of_financial_infrastructure.pdf
