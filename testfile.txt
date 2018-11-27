@@ -7,3 +7,4 @@ https://docs.corda.net/releases/head/_static/corda-developer-site.pdf
 http://www3.weforum.org/docs/WEF_The_future_of_financial_infrastructure.pdf
 https://www.zastrin.com/courses/ethereum-primer/lessons/1-1
 
+https://www.quora.com/What-are-some-possible-research-topics-about-blockchain
