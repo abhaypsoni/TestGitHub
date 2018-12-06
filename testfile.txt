@@ -16,3 +16,5 @@ https://www.linkedin.com/feed/update/urn:li:activity:6473653755584880640
 QLDB -: https://www.slideshare.net/AmazonWebServices/leadership-session-aws-database-and-analytics-dat206l-aws-reinvent-2018?qid=0076de41-13e8-41b9-b6e6-571a22b02321&v=&b=&from_search=6
 
 https://www.cognizant.com/whitepapers/how-blockchain-can-revitalize-trade-finance-part1-codex2766.pdf
+
+https://www.linkedin.com/feed/update/urn:li:activity:6476085628709806080
