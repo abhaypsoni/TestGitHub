@@ -18,3 +18,6 @@ QLDB -: https://www.slideshare.net/AmazonWebServices/leadership-session-aws-data
 https://www.cognizant.com/whitepapers/how-blockchain-can-revitalize-trade-finance-part1-codex2766.pdf
 
 https://www.linkedin.com/feed/update/urn:li:activity:6476085628709806080
+
+Certificate sample 
+https://www.linkedin.com/feed/update/urn:li:activity:6480827686330736640
